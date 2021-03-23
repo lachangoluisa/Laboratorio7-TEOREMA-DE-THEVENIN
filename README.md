@@ -71,7 +71,15 @@ corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.![Whats
 
 TABULACION DE DATOS Y CALCULOS 
 ![WhatsApp Image 2021-03-23 at 1 52 40 PM](https://user-images.githubusercontent.com/76057459/112202218-1f0f5b00-8bdf-11eb-9847-1e60e5cc9a32.jpeg)
-![WhatsApp Image 2021-03-23 at 1 52 55 PM](https://user-images.githubusercontent.com/76057459/112202226-20d91e80-8bdf-11eb-8da7-68233d8995db.jpeg)
+
+![WhatsApp Image 2021-03-23 at 2 49 25 PM](https://user-images.githubusercontent.com/76057459/112209045-099e2f00-8be7-11eb-87d1-d4586bf28c03.jpeg)
+
+calculos![img046](https://user-images.githubusercontent.com/76057459/112208608-8bda2380-8be6-11eb-9d4b-45e1bb7425d6.jpg)
+![WhatsApp Image 2021-03-23 at 2 35 16 PM](https://user-images.githubusercontent.com/76057459/112208663-998fa900-8be6-11eb-8812-8d9294e1f445.jpeg)
+![WhatsApp Image 2021-03-23 at 2 38 44 PM](https://user-images.githubusercontent.com/76057459/112208668-9b596c80-8be6-11eb-94b7-071afdcddb67.jpeg)
+![WhatsApp Image 2021-03-23 at 2 44 26 PM](https://user-images.githubusercontent.com/76057459/112208675-9d233000-8be6-11eb-936e-ff508412de2e.jpeg)
+
+
 
 CALCULO DEL ERROR
 
