@@ -7,9 +7,9 @@ Demostrar experimentalmente el teorema de Thevenin  para resolver un circuito
 
 OBJETIVOS ESPECIFICOS
 
-Aplicar la teoria de Thevenin  para conseguir un circuito mas sencillo
+Aplicar la teoria de Thevenin  para conseguir un circuito mas sencillo de resolver
 
-Comparar  los valor medidos y los valores calculados para comprobar  la teoria de Thevenin
+Comparar los calculos con los resultados practicos y determinar  cual es el error entre los datos ontenidos en la practica y los valores calculados
 
 
 MARCO TEÓRICO
@@ -90,6 +90,13 @@ Es aplicable a cualquier elemento del circuito, siempre que este cuente con una 
 
 BIBLIOGRAFÍA
 https://www.teorema.top/teorema-de-thevenin/#Ventajas_de_aplicar_el_teorema_de_Thevenin
+
+X. (2020, 20 julio). de Thevenin explicado para que lo Entiendas. Teorema. https://www.teorema.top/teorema-de-thevenin/
+
+Sadiku. (sf). Teoremas de circuitos. En Sadiku, Fundamentos de Circuitos Eléctricos
+
+Floyd, T. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México, México: Pearson Education.
+
 
 ANEXOS
 ![WhatsApp Image 2021-03-23 at 2 18 46 AM (1)](https://user-images.githubusercontent.com/76057459/112108603-6ca7ab80-8b7e-11eb-89cc-8723d0f7760e.jpeg)![WhatsApp Image 2021-03-23 at 2 18 46 AM (2)](https://user-images.githubusercontent.com/76057459/112108648-7b8e5e00-8b7e-11eb-9bd2-e5b6d79f8162.jpeg)
