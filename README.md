@@ -36,9 +36,6 @@ LISTA DE COMPONENTES
 ![elementos circuito](https://user-images.githubusercontent.com/76057459/112097894-d7e98180-8b6e-11eb-82b0-383eff8ab08f.jpeg)
 
 
-EXPLICACIÓN
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
-
 
 7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
@@ -86,9 +83,10 @@ APORTACIONES
 En este punto se indicará todo lo adicional fruto de lo investigado que se haya agregado al trabajo.
 
 CONCLUSIONES
-Al permitir crear un circuito equivalente de uno más grande, se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga.
-Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente.
-Es posible encontrar un circuito equivalente simple hasta del circuito más complejo.
+
+
+El teorem de Thevenin nos permite obtener un circuito equivalente , se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga lo cual facilita la resolucion del circuito
+Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente
 
 BIBLIOGRAFÍA
 https://www.teorema.top/teorema-de-thevenin/#Ventajas_de_aplicar_el_teorema_de_Thevenin
@@ -98,4 +96,6 @@ ANEXOS
 ![WhatsApp Image 2021-03-23 at 2 18 46 AM (3)](https://user-images.githubusercontent.com/76057459/112108679-8648f300-8b7e-11eb-8b16-f365a6cced93.jpeg)
 ![WhatsApp Image 2021-03-23 at 2 18 46 AM (4)](https://user-images.githubusercontent.com/76057459/112108727-99f45980-8b7e-11eb-9287-4260a04d5d0a.jpeg)
 ![WhatsApp Image 2021-03-23 at 2 18 46 AM (5)](https://user-images.githubusercontent.com/76057459/112108735-9f51a400-8b7e-11eb-98d6-eceabc5377b1.jpeg)
+ calculos
+ ![img046](https://user-images.githubusercontent.com/76057459/112203594-b75a0f80-8be0-11eb-9b94-666fb5353f63.jpg)
 
